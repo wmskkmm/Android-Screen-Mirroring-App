@@ -1,0 +1,18 @@
+# Android
+ScreenMirrorApp/.gradle/
+ScreenMirrorApp/build/
+ScreenMirrorApp/app/build/
+ScreenMirrorApp/.idea/
+ScreenMirrorApp/local.properties
+ScreenMirrorApp/*.iml
+ScreenMirrorApp/app/*.iml
+
+# Python
+pc_receiver/__pycache__/
+pc_receiver/*.pyc
+pc_receiver/vlc_debug.log
+pc_receiver/screen_mirror.sdp
+
+# OS
+.DS_Store
+Thumbs.db

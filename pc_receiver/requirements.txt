@@ -1,0 +1,11 @@
+# 核心依赖（均为 Python 标准库）
+# - socket, struct, subprocess, threading, os, sys, time
+
+# 外部依赖: FFmpeg/FFplay（需要单独安装）
+# 下载: https://ffmpeg.org/download.html
+# 或将 ffplay 添加到系统 PATH
+
+# 可选：用于更高级的播放控制
+# ffmpeg-python>=0.2.0   # 如使用 FFmpeg API
+# opencv-python>=4.8.0   # 如果用 OpenCV 显示视频帧
+# numpy>=1.24.0          # OpenCV 依赖

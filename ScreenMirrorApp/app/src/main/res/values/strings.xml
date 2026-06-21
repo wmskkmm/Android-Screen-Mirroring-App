@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">屏幕投屏</string>
+    <string name="btn_start_stream">开始投屏</string>
+    <string name="btn_stop_stream">停止投屏</string>
+    <string name="label_device_list">发现设备</string>
+    <string name="label_manual_ip">手动输入 IP</string>
+    <string name="hint_ip_address">192.168.1.100</string>
+    <string name="status_idle">未连接</string>
+    <string name="status_scanning">扫描设备中…</string>
+    <string name="status_connecting">连接中…</string>
+    <string name="status_streaming">投屏中</string>
+    <string name="no_devices_found">未发现设备，请手动输入 IP</string>
+    <string name="permission_required">请授予屏幕录制和录音权限</string>
+    <string name="notification_channel">投屏服务</string>
+    <string name="notification_streaming">正在投屏…</string>
+</resources>
