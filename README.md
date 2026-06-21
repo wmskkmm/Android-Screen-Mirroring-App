@@ -4,7 +4,7 @@
 
 ## 项目概况
 
-市面上主流投屏方案（Miracast、AirPlay）对接收端硬件有强依赖，且内置大缓冲区导致延迟偏高。本方案采用 **MediaProjection + MediaCodec 硬编码 → RTP/UDP 直推 → VLC 直接解码** 的极简架构，不依赖任何专用硬件，PC 端只需 VLC 播放器即可接收。
+本方案采用 **MediaProjection + MediaCodec 硬编码 → RTP/UDP 直推 → VLC 直接解码** 的极简架构，不依赖任何专用硬件，PC 端只需 VLC 播放器即可接收。
 
 ## 技术指标
 
